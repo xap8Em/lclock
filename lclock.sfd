@@ -1,0 +1,2268 @@
+SplineFontDB: 3.2
+FontName: lclock
+FullName: lclock
+FamilyName: lclock
+Weight: Regular
+Copyright: 
+Version: 1.0.0
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 1000
+Descent: 0
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 424 -602532898 20827]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1725504448
+ModificationTime: 1725546497
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 90
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "u8p" "" "" "https://s5fese.tumblr.com/" "Creative Commons Legal Code+AAoACgAA-CC0 1.0 Universal+AAoACgAA    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE+AAoA    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN+AAoA    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS+AAoA    INFORMATION ON AN +ACIA-AS-IS+ACIA BASIS. CREATIVE COMMONS MAKES NO WARRANTIES+AAoA    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS+AAoA    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM+AAoA    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED+AAoA    HEREUNDER.+AAoACgAA-Statement of Purpose+AAoACgAA-The laws of most jurisdictions throughout the world automatically confer+AAoA-exclusive Copyright and Related Rights (defined below) upon the creator+AAoA-and subsequent owner(s) (each and all, an +ACIA-owner+ACIA) of an original work of+AAoA-authorship and/or a database (each, a +ACIA-Work+ACIA).+AAoACgAA-Certain owners wish to permanently relinquish those rights to a Work for+AAoA-the purpose of contributing to a commons of creative, cultural and+AAoA-scientific works (+ACIA-Commons+ACIA) that the public can reliably and without fear+AAoA-of later claims of infringement build upon, modify, incorporate in other+AAoA-works, reuse and redistribute as freely as possible in any form whatsoever+AAoA-and for any purposes, including without limitation commercial purposes.+AAoA-These owners may contribute to the Commons to promote the ideal of a free+AAoA-culture and the further production of creative, cultural and scientific+AAoA-works, or to gain reputation or greater distribution for their Work in+AAoA-part through the use and efforts of others.+AAoACgAA-For these and/or other purposes and motivations, and without any+AAoA-expectation of additional consideration or compensation, the person+AAoA-associating CC0 with a Work (the +ACIA-Affirmer+ACIA), to the extent that he or she+AAoA-is an owner of Copyright and Related Rights in the Work, voluntarily+AAoA-elects to apply CC0 to the Work and publicly distribute the Work under its+AAoA-terms, with knowledge of his or her Copyright and Related Rights in the+AAoA-Work and the meaning and intended legal effect of CC0 on those rights.+AAoACgAA-1. Copyright and Related Rights. A Work made available under CC0 may be+AAoA-protected by copyright and related or neighboring rights (+ACIA-Copyright and+AAoA-Related Rights+ACIA). Copyright and Related Rights include, but are not+AAoA-limited to, the following:+AAoACgAA  i. the right to reproduce, adapt, distribute, perform, display,+AAoA     communicate, and translate a Work;+AAoA ii. moral rights retained by the original author(s) and/or performer(s);+AAoA-iii. publicity and privacy rights pertaining to a person's image or+AAoA     likeness depicted in a Work;+AAoA iv. rights protecting against unfair competition in regards to a Work,+AAoA     subject to the limitations in paragraph 4(a), below;+AAoA  v. rights protecting the extraction, dissemination, use and reuse of data+AAoA     in a Work;+AAoA vi. database rights (such as those arising under Directive 96/9/EC of the+AAoA     European Parliament and of the Council of 11 March 1996 on the legal+AAoA     protection of databases, and under any national implementation+AAoA     thereof, including any amended or successor version of such+AAoA     directive); and+AAoA-vii. other similar, equivalent or corresponding rights throughout the+AAoA     world based on applicable law or treaty, and any national+AAoA     implementations thereof.+AAoACgAA-2. Waiver. To the greatest extent permitted by, but not in contravention+AAoA-of, applicable law, Affirmer hereby overtly, fully, permanently,+AAoA-irrevocably and unconditionally waives, abandons, and surrenders all of+AAoA-Affirmer's Copyright and Related Rights and associated claims and causes+AAoA-of action, whether now known or unknown (including existing as well as+AAoA-future claims and causes of action), in the Work (i) in all territories+AAoA-worldwide, (ii) for the maximum duration provided by applicable law or+AAoA-treaty (including future time extensions), (iii) in any current or future+AAoA-medium and for any number of copies, and (iv) for any purpose whatsoever,+AAoA-including without limitation commercial, advertising or promotional+AAoA-purposes (the +ACIA-Waiver+ACIA). Affirmer makes the Waiver for the benefit of each+AAoA-member of the public at large and to the detriment of Affirmer's heirs and+AAoA-successors, fully intending that such Waiver shall not be subject to+AAoA-revocation, rescission, cancellation, termination, or any other legal or+AAoA-equitable action to disrupt the quiet enjoyment of the Work by the public+AAoA-as contemplated by Affirmer's express Statement of Purpose.+AAoACgAA-3. Public License Fallback. Should any part of the Waiver for any reason+AAoA-be judged legally invalid or ineffective under applicable law, then the+AAoA-Waiver shall be preserved to the maximum extent permitted taking into+AAoA-account Affirmer's express Statement of Purpose. In addition, to the+AAoA-extent the Waiver is so judged Affirmer hereby grants to each affected+AAoA-person a royalty-free, non transferable, non sublicensable, non exclusive,+AAoA-irrevocable and unconditional license to exercise Affirmer's Copyright and+AAoA-Related Rights in the Work (i) in all territories worldwide, (ii) for the+AAoA-maximum duration provided by applicable law or treaty (including future+AAoA-time extensions), (iii) in any current or future medium and for any number+AAoA-of copies, and (iv) for any purpose whatsoever, including without+AAoA-limitation commercial, advertising or promotional purposes (the+AAoAIgAA-License+ACIA). The License shall be deemed effective as of the date CC0 was+AAoA-applied by Affirmer to the Work. Should any part of the License for any+AAoA-reason be judged legally invalid or ineffective under applicable law, such+AAoA-partial invalidity or ineffectiveness shall not invalidate the remainder+AAoA-of the License, and in such case Affirmer hereby affirms that he or she+AAoA-will not (i) exercise any of his or her remaining Copyright and Related+AAoA-Rights in the Work or (ii) assert any associated claims and causes of+AAoA-action with respect to the Work, in either case contrary to Affirmer's+AAoA-express Statement of Purpose.+AAoACgAA-4. Limitations and Disclaimers.+AAoACgAA a. No trademark or patent rights held by Affirmer are waived, abandoned,+AAoA    surrendered, licensed or otherwise affected by this document.+AAoA b. Affirmer offers the Work as-is and makes no representations or+AAoA    warranties of any kind concerning the Work, express, implied,+AAoA    statutory or otherwise, including without limitation warranties of+AAoA    title, merchantability, fitness for a particular purpose, non+AAoA    infringement, or the absence of latent or other defects, accuracy, or+AAoA    the present or absence of errors, whether or not discoverable, all to+AAoA    the greatest extent permissible under applicable law.+AAoA c. Affirmer disclaims responsibility for clearing rights of other persons+AAoA    that may apply to the Work or any use thereof, including without+AAoA    limitation any person's Copyright and Related Rights in the Work.+AAoA    Further, Affirmer disclaims responsibility for obtaining any necessary+AAoA    consents, permissions or other rights required for any use of the+AAoA    Work.+AAoA d. Affirmer understands and acknowledges that Creative Commons is not a+AAoA    party to this document and has no duty or obligation with respect to+AAoA    this CC0 or use of the Work.+AAoA" "https://creativecommons.org/publicdomain/zero/1.0/"
+Encoding: Original
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 13
+BeginPrivate: 0
+EndPrivate
+BeginChars: 56 55
+
+StartChar: .notdef
+Encoding: 0 0 0
+Width: 500
+VWidth: 1024
+HStem: 0 21G<0 1000> 980 20G<0 1000>
+VStem: 0 1000<0 1000>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 1000 l 1
+ 1000 1000 l 1
+ 1000 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: 
+Encoding: 1 56 1
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0580
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0580
+31.25 937.5 m 1x2380
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x0b80
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x2380
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2380
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1x1180
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x6180
+ 31.25 468.75 l 1x1180
+406.25 468.75 m 1x5180
+ 437.5 437.5 l 1x2180
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x5180
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 2 48 2
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0b
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0b
+31.25 937.5 m 1x17
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x17
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+31.25 468.75 m 1x63
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x63
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 3 49 3
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<386.25 426.25> 468.75 448.75G<386.25 426.25> 531.25 21G<386.25 426.25> 917.5 20G<386.25 426.25>
+VStem: 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+406.25 937.5 m 1xb8
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1xb8
+406.25 468.75 m 1xc8
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1xc8
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 4 50 4
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0580
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0580
+406.25 937.5 m 1x0b80
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2380
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x0b80
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1x1180
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x6180
+ 31.25 468.75 l 1x1180
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 5 51 5
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<386.25 426.25> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25>
+VStem: 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x05
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x05
+406.25 937.5 m 1x0b
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x23
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x0b
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+406.25 468.75 m 1x51
+ 437.5 437.5 l 1x21
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x51
+156.25 125 m 1x81
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x81
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 6 52 6
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1xd6
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1xb6
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xd6
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1xd6
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 7 53 7
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0b
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0b
+31.25 937.5 m 1x27
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x17
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x27
+125 562.5 m 1x23
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x23
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1x63
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 8 54 8
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0580
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0580
+31.25 937.5 m 1x2380
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x0b80
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x2380
+125 562.5 m 1x2180
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x2180
+31.25 468.75 m 1x1180
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x6180
+ 31.25 468.75 l 1x1180
+406.25 468.75 m 1x5180
+ 437.5 437.5 l 1x2180
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x5180
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 9 55 9
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<386.25 426.25> 468.75 448.75G<386.25 426.25> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25>
+VStem: 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x94
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x94
+406.25 937.5 m 1xac
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1xac
+406.25 468.75 m 1xc4
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1xc4
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 10 57 10
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0980
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0980
+31.25 937.5 m 1x2580
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x1580
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x2580
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2580
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1x6180
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 11 65 11
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x8b
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x8b
+31.25 937.5 m 1xc7
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x97
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xc7
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1xc7
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1xa3
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1xc3
+ 31.25 468.75 l 1xa3
+406.25 468.75 m 1xa3
+ 437.5 437.5 l 1xc3
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1xa3
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 12 67 12
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 468.75 448.75G<11.25 51.25> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0a
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0a
+31.25 937.5 m 1x16
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x16
+31.25 468.75 m 1x62
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x62
+156.25 125 m 1x82
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x82
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 13 69 13
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x05
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x05
+31.25 937.5 m 1x23
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x0b
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x23
+125 562.5 m 1x21
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x21
+31.25 468.75 m 1x11
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x61
+ 31.25 468.75 l 1x11
+156.25 125 m 1x81
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x81
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 14 70 14
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x8a
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x8a
+31.25 937.5 m 1xc6
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x96
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xc6
+125 562.5 m 1xc2
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1xc2
+31.25 468.75 m 1xa2
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1xc2
+ 31.25 468.75 l 1xa2
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 15 71 15
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0b
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0b
+31.25 937.5 m 1x17
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x17
+31.25 468.75 m 1x63
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x63
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 16 72 16
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1xce
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x9e
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xce
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1xce
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1xa6
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1xc6
+ 31.25 468.75 l 1xa6
+406.25 468.75 m 1xa6
+ 437.5 437.5 l 1xc6
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1xa6
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 17 73 17
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<386.25 426.25> 468.75 448.75G<386.25 426.25> 531.25 21G<386.25 426.25> 917.5 20G<386.25 426.25>
+VStem: 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+406.25 937.5 m 1xb8
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1xb8
+406.25 468.75 m 1xc8
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1xc8
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 18 74 18
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<386.25 426.25> 917.5 20G<386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+406.25 937.5 m 1x1e
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x1e
+31.25 468.75 m 1x66
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x66
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x86
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x86
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 19 76 19
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 468.75 448.75G<11.25 51.25> 531.25 21G<11.25 51.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1x1c
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x1c
+31.25 468.75 m 1x64
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x64
+156.25 125 m 1x84
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x84
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 20 79 20
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0b
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0b
+31.25 937.5 m 1x17
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x17
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+31.25 468.75 m 1x63
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x63
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 21 80 21
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x93
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x93
+31.25 937.5 m 1xcb
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1xab
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xcb
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1xcb
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 22 83 22
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0b
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0b
+31.25 937.5 m 1x27
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x17
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x27
+125 562.5 m 1x23
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x23
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1x63
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 23 85 23
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1x1e
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x1e
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+31.25 468.75 m 1x66
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x66
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x86
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x86
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 24 90 24
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0580
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0580
+406.25 937.5 m 1x0b80
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2380
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x0b80
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1x1180
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x6180
+ 31.25 468.75 l 1x1180
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 25 97 25
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0580
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0580
+406.25 937.5 m 1x0b80
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2380
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x0b80
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1x1180
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x6180
+ 31.25 468.75 l 1x1180
+406.25 468.75 m 1x5180
+ 437.5 437.5 l 1x2180
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x5180
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 26 98 26
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1x27
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x0f
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x27
+125 562.5 m 1x23
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x23
+31.25 468.75 m 1x13
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x63
+ 31.25 468.75 l 1x13
+406.25 468.75 m 1x53
+ 437.5 437.5 l 1x23
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x53
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 27 99 27
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 448.75 20G<11.25 51.25>
+VStem: 0 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+125 562.5 m 1x28
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x28
+31.25 468.75 m 1x18
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x68
+ 31.25 468.75 l 1x18
+156.25 125 m 1x88
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x88
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 28 100 28
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<386.25 426.25> 917.5 20G<386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+406.25 937.5 m 1x0f
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x27
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x0f
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1x13
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x63
+ 31.25 468.75 l 1x13
+406.25 468.75 m 1x53
+ 437.5 437.5 l 1x23
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x53
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 29 101 29
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0980
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0980
+31.25 937.5 m 1x2580
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x1580
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x2580
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2580
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1x6180
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 30 103 30
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0980
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0980
+31.25 937.5 m 1x2580
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x1580
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x2580
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2580
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1x6180
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x8180
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8180
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 31 104 31
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<11.25 51.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1xce
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x9e
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xce
+125 562.5 m 1xc6
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1xc6
+31.25 468.75 m 1xa6
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1xc6
+ 31.25 468.75 l 1xa6
+406.25 468.75 m 1xa6
+ 437.5 437.5 l 1xc6
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1xa6
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 32 105 32
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<386.25 426.25> 448.75 20G<386.25 426.25>
+VStem: 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 33 106 33
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 468.75 448.75G<386.25 426.25> 531.25 21G<386.25 426.25> 917.5 20G<386.25 426.25>
+VStem: 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+406.25 937.5 m 1x1c
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x1c
+406.25 468.75 m 1x64
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x64
+156.25 125 m 1x84
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x84
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 34 108 34
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25> 468.75 448.75G<11.25 51.25> 531.25 21G<11.25 51.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1xb8
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xb8
+31.25 468.75 m 1xc8
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1xc8
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 35 110 35
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 448.75 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+125 562.5 m 1xd8
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1xd8
+31.25 468.75 m 1xb8
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1xd8
+ 31.25 468.75 l 1xb8
+406.25 468.75 m 1xb8
+ 437.5 437.5 l 1xd8
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1xb8
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 36 111 36
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 437.5 125<125 312.5> 448.75 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+125 562.5 m 1x2c
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x2c
+31.25 468.75 m 1x1c
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x6c
+ 31.25 468.75 l 1x1c
+406.25 468.75 m 1x5c
+ 437.5 437.5 l 1x2c
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x5c
+156.25 125 m 1x8c
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x8c
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 37 113 37
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x93
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x93
+31.25 937.5 m 1xcb
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1xab
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xcb
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1xcb
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 38 114 38
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 448.75 20G<11.25 51.25>
+VStem: 0 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+125 562.5 m 1xd0
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1xd0
+31.25 468.75 m 1xb0
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1xd0
+ 31.25 468.75 l 1xb0
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 39 116 39
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25> 531.25 21G<11.25 51.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1x26
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x0e
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x26
+125 562.5 m 1x22
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x22
+31.25 468.75 m 1x12
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1x62
+ 31.25 468.75 l 1x12
+156.25 125 m 1x82
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x82
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 40 117 40
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25 386.25 426.25> 448.75 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<156.25 375>
+LayerCount: 2
+Fore
+SplineSet
+31.25 468.75 m 1x78
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x78
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1xb8
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1xb8
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 41 121 41
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1x2b
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x1b
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x2b
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x2b
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+406.25 468.75 m 1
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1x63
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1
+156.25 125 m 1x83
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x83
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 43 95 42
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25>
+VStem: 62.5 312.5
+LayerCount: 2
+Fore
+SplineSet
+156.25 125 m 1
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 44 45 43
+Width: 500
+VWidth: 1024
+HStem: 437.5 125<125 312.5>
+VStem: 62.5 312.5
+LayerCount: 2
+Fore
+SplineSet
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 45 61 44
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 437.5 125<125 312.5>
+VStem: 62.5 312.5
+LayerCount: 2
+Fore
+SplineSet
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+156.25 125 m 1
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 46 62 45
+Width: 500
+VWidth: 1024
+HStem: 437.5 125<125 312.5> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25> 917.5 20G<386.25 426.25>
+VStem: 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x24
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x24
+406.25 937.5 m 1x54
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x94
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x54
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 47 63 46
+Width: 500
+VWidth: 1024
+HStem: 62.5 21G<11.25 51.25> 437.5 125<125 312.5> 468.75 448.75G<11.25 51.25 386.25 426.25> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25>
+VStem: 0 125<156.25 375> 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x8b
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x8b
+406.25 937.5 m 1x97
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1xc7
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x97
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+31.25 468.75 m 1xa3
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1xc3
+ 31.25 468.75 l 1xa3
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 48 34 47
+Width: 500
+VWidth: 1024
+HStem: 531.25 21G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1xd8
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xd8
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 49 39 48
+Width: 500
+VWidth: 1024
+HStem: 531.25 21G<11.25 51.25> 917.5 20G<11.25 51.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+31.25 937.5 m 1xd0
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1xd0
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 50 91 49
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<11.25 51.25> 468.75 448.75G<11.25 51.25> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0a
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0a
+31.25 937.5 m 1x16
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x16
+31.25 468.75 m 1x62
+ 125 375 l 1
+ 125 156.25 l 1
+ 31.25 62.5 l 1
+ 0 93.75 l 1
+ 0 437.5 l 1
+ 31.25 468.75 l 1x62
+156.25 125 m 1x82
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x82
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 51 93 50
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 62.5 21G<386.25 426.25> 468.75 448.75G<386.25 426.25> 531.25 21G<386.25 426.25> 875 125<156.25 281.25> 917.5 20G<386.25 426.25>
+VStem: 312.5 125<156.25 375 625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x0a
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x0a
+406.25 937.5 m 1x16
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1x16
+406.25 468.75 m 1x62
+ 437.5 437.5 l 1
+ 437.5 93.75 l 1
+ 406.25 62.5 l 1
+ 312.5 156.25 l 1
+ 312.5 375 l 1
+ 406.25 468.75 l 1x62
+156.25 125 m 1x82
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1x82
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 52 60 51
+Width: 500
+VWidth: 1024
+HStem: 437.5 125<125 312.5> 531.25 21G<11.25 51.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25> 917.5 20G<11.25 51.25>
+VStem: 0 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x24
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x24
+31.25 937.5 m 1x94
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x54
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x94
+125 562.5 m 1x84
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1x84
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 53 176 52
+Width: 500
+VWidth: 1024
+HStem: 437.5 125<125 312.5> 531.25 21G<11.25 51.25 386.25 426.25> 875 125<156.25 281.25> 917.5 20G<11.25 51.25 386.25 426.25> 917.5 20G<11.25 51.25 386.25 426.25>
+VStem: 0 125<625 843.75> 312.5 125<625 843.75>
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1x26
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1x26
+31.25 937.5 m 1x96
+ 125 843.75 l 1
+ 125 625 l 1
+ 31.25 531.25 l 1x56
+ 0 562.5 l 1
+ 0 906.25 l 1
+ 31.25 937.5 l 1x96
+406.25 937.5 m 1
+ 437.5 906.25 l 1
+ 437.5 562.5 l 1x96
+ 406.25 531.25 l 1
+ 312.5 625 l 1
+ 312.5 843.75 l 1
+ 406.25 937.5 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 54 8801 53
+Width: 500
+VWidth: 1024
+HStem: 0 125<156.25 281.25> 437.5 125<125 312.5> 875 125<156.25 281.25>
+VStem: 62.5 312.5
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1
+125 562.5 m 1
+ 312.5 562.5 l 1
+ 375 500 l 1
+ 312.5 437.5 l 1
+ 125 437.5 l 1
+ 62.5 500 l 1
+ 125 562.5 l 1
+156.25 125 m 1
+ 281.25 125 l 1
+ 375 31.25 l 1
+ 343.75 0 l 1
+ 93.75 0 l 1
+ 62.5 31.25 l 1
+ 156.25 125 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+
+StartChar: 
+Encoding: 55 8254 54
+Width: 500
+VWidth: 1024
+HStem: 875 125<156.25 281.25>
+VStem: 62.5 312.5
+LayerCount: 2
+Fore
+SplineSet
+93.75 1000 m 1
+ 343.75 1000 l 1
+ 375 968.75 l 1
+ 281.25 875 l 1
+ 156.25 875 l 1
+ 62.5 968.75 l 1
+ 93.75 1000 l 1
+EndSplineSet
+Validated: 2621441
+EndChar
+EndChars
+EndSplineFont
