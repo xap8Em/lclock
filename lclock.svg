@@ -32,11 +32,11 @@
      inkscape:current-layer="layer3"
      showgrid="true"
      showguides="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     inkscape:window-width="958"
+     inkscape:window-height="981"
+     inkscape:window-x="952"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showborder="true"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="1"
@@ -112,276 +112,276 @@
          d="M0,0h1000v1000h-1000z"
          id="missing-glyph1" />
       <glyph
-         glyph-name=""
+         glyph-name="eight"
          unicode="8"
          id="glyph1"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="zero"
          unicode="0"
          id="glyph6"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="one"
          unicode="1"
          id="glyph7"
          d="M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 v 343.75 z m 0,-468.75 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="two"
          unicode="2"
          id="glyph8"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="three"
          unicode="3"
          id="glyph9"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="four"
          unicode="4"
          id="glyph10"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="five"
          unicode="5"
          id="glyph11"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="six"
          unicode="6"
          id="glyph12"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="seven"
          unicode="7"
          id="glyph13"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 v 343.75 z m 0,-468.75 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="nine"
          unicode="9"
          id="glyph15"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="A"
          unicode="A"
          id="glyph16"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="C"
          unicode="C"
          id="glyph18"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 0,-468.75 L 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="E"
          unicode="E"
          id="glyph20"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="F"
          unicode="F"
          id="glyph21"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="G"
          unicode="G"
          id="glyph22"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 0,-468.75 L 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="H"
          unicode="H"
          id="glyph23"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="I"
          unicode="I"
          id="glyph24"
          d="M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 v 343.75 z m 0,-468.75 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="J"
          unicode="J"
          id="glyph25"
          d="M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="L"
          unicode="L"
          id="glyph27"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 0,-468.75 L 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="O"
          unicode="O"
          id="glyph30"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="P"
          unicode="P"
          id="glyph31"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="S"
          unicode="S"
          id="glyph34"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="U"
          unicode="U"
          id="glyph36"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="Z"
          unicode="Z"
          id="glyph41"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="a"
          unicode="a"
          id="glyph42"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="b"
          unicode="b"
          id="glyph43"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="c"
          unicode="c"
          id="glyph44"
          d="M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="d"
          unicode="d"
          id="glyph45"
          d="M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="e"
          unicode="e"
          id="glyph46"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="g"
          unicode="g"
          id="glyph48"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="h"
          unicode="h"
          id="glyph49"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="i"
          unicode="i"
          id="glyph50"
          d="M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="j"
          unicode="j"
          id="glyph51"
          d="M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 v 343.75 z m 0,-468.75 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="l"
          unicode="l"
          id="glyph53"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 0,-468.75 L 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="n"
          unicode="n"
          id="glyph55"
          d="M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="o"
          unicode="o"
          id="glyph56"
          d="M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="q"
          unicode="q"
          id="glyph58"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="r"
          unicode="r"
          id="glyph59"
          d="M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="t"
          unicode="t"
          id="glyph61"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="u"
          unicode="u"
          id="glyph62"
          d="M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z m 375,0 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="y"
          unicode="y"
          id="glyph66"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 406.25,468.75 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="space"
          unicode=" "
          id="glyph67" />
       <glyph
-         glyph-name=""
+         glyph-name="underscore"
          unicode="_"
          id="glyph68"
          d="M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="hyphen"
          unicode="-"
          id="glyph69"
          d="M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="equal"
          unicode="="
          id="glyph70"
          d="M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="greater"
          unicode="&gt;"
          id="glyph71"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="question"
          unicode="?"
          id="glyph72"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 31.25,468.75 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="quotedbl"
          unicode="&quot;"
          id="glyph73"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 v 343.75 z" />
       <glyph
-         glyph-name=""
+         glyph-name="quotesingle"
          unicode="'"
          id="glyph74"
          d="M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z" />
       <glyph
-         glyph-name=""
+         glyph-name="bracketleft"
          unicode="["
          id="glyph75"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 0,-468.75 L 0,437.5 V 93.75 L 31.25,62.5 125,156.25 V 375 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="bracketright"
          unicode="]"
          id="glyph76"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 406.25,937.5 312.5,843.75 V 625 l 93.75,-93.75 31.25,31.25 v 343.75 z m 0,-468.75 L 312.5,375 V 156.25 L 406.25,62.5 437.5,93.75 V 437.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="less"
          unicode="&lt;"
          id="glyph77"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 V 843.75 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="degree"
          unicode="°"
          id="glyph78"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 31.25,937.5 0,906.25 V 562.5 L 31.25,531.25 125,625 v 218.75 z m 375,0 -93.75,-93.75 V 625 l 93.75,-93.75 31.25,31.25 V 906.25 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="equivalence"
          unicode="≡"
          id="glyph79"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z M 125,562.5 62.5,500 125,437.5 H 312.5 L 375,500 312.5,562.5 Z M 156.25,125 62.5,31.25 93.75,0 h 250 L 375,31.25 281.25,125 Z" />
       <glyph
-         glyph-name=""
+         glyph-name="overline"
          unicode="‾"
          id="glyph80"
          d="M 93.75,1000 62.5,968.75 156.25,875 h 125 L 375,968.75 343.75,1000 Z" />
@@ -422,7 +422,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer57"
-       inkscape:label="U+002261 ≡"
+       inkscape:label="U+002261 ≡ equivalence"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -434,7 +434,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer58"
-       inkscape:label="U+00203E ‾"
+       inkscape:label="U+00203E ‾ overline"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -446,7 +446,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer49"
-       inkscape:label="U+0000B0 °"
+       inkscape:label="U+0000B0 ° degree"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -458,7 +458,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer45"
-       inkscape:label="U+000079 y"
+       inkscape:label="U+000079 y y"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -470,7 +470,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer44"
-       inkscape:label="U+000075 u"
+       inkscape:label="U+000075 u u"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -482,7 +482,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer43"
-       inkscape:label="U+000074 t"
+       inkscape:label="U+000074 t t"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -504,7 +504,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer41"
-       inkscape:label="U+000072 r"
+       inkscape:label="U+000072 r r"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -516,7 +516,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer40"
-       inkscape:label="U+000071 q"
+       inkscape:label="U+000071 q q"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -528,7 +528,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer39"
-       inkscape:label="U+00006F o"
+       inkscape:label="U+00006F o o"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -540,7 +540,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer38"
-       inkscape:label="U+00006E n"
+       inkscape:label="U+00006E n n"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -552,7 +552,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer37"
-       inkscape:label="U+00006C l"
+       inkscape:label="U+00006C l l"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -564,7 +564,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer36"
-       inkscape:label="U+00006A j"
+       inkscape:label="U+00006A j j"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -576,7 +576,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer35"
-       inkscape:label="U+000069 i"
+       inkscape:label="U+000069 i i"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -588,7 +588,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer34"
-       inkscape:label="U+000068 h"
+       inkscape:label="U+000068 h h"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -600,7 +600,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer33"
-       inkscape:label="U+000067 g"
+       inkscape:label="U+000067 g g"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -622,7 +622,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer31"
-       inkscape:label="U+000065 e"
+       inkscape:label="U+000065 e e"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -634,7 +634,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer30"
-       inkscape:label="U+000064 d"
+       inkscape:label="U+000064 d d"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -646,7 +646,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer29"
-       inkscape:label="U+000063 c"
+       inkscape:label="U+000063 c c"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -658,7 +658,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer28"
-       inkscape:label="U+000062 b"
+       inkscape:label="U+000062 b b"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -670,7 +670,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer27"
-       inkscape:label="U+000061 a"
+       inkscape:label="U+000061 a a"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -682,7 +682,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer46"
-       inkscape:label="U+00005F _"
+       inkscape:label="U+00005F _ underscore"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -694,7 +694,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer55"
-       inkscape:label="U+00005D ]"
+       inkscape:label="U+00005D ] bracketright"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -706,7 +706,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer54"
-       inkscape:label="U+00005B ["
+       inkscape:label="U+00005B [ bracketleft"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -718,7 +718,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer26"
-       inkscape:label="U+00005A Z"
+       inkscape:label="U+00005A Z Z"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -730,7 +730,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer25"
-       inkscape:label="U+000055 U"
+       inkscape:label="U+000055 U U"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -742,7 +742,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer24"
-       inkscape:label="U+000053 S"
+       inkscape:label="U+000053 S S"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -754,7 +754,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer23"
-       inkscape:label="U+000050 P"
+       inkscape:label="U+000050 P P"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -766,7 +766,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer22"
-       inkscape:label="U+00004F O"
+       inkscape:label="U+00004F O O"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -778,7 +778,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer1"
-       inkscape:label="U+00004C L"
+       inkscape:label="U+00004C L L"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -804,7 +804,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer20"
-       inkscape:label="U+00004A J"
+       inkscape:label="U+00004A J J"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -816,7 +816,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer19"
-       inkscape:label="U+000049 I"
+       inkscape:label="U+000049 I I"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -828,7 +828,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer18"
-       inkscape:label="U+000048 H"
+       inkscape:label="U+000048 H H"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -840,7 +840,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer17"
-       inkscape:label="U+000047 G"
+       inkscape:label="U+000047 G G"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -852,7 +852,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer16"
-       inkscape:label="U+000046 F"
+       inkscape:label="U+000046 F F"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -864,7 +864,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer15"
-       inkscape:label="U+000045 E"
+       inkscape:label="U+000045 E E"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -876,7 +876,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer14"
-       inkscape:label="U+000043 C"
+       inkscape:label="U+000043 C C"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -888,7 +888,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer13"
-       inkscape:label="U+000041 A"
+       inkscape:label="U+000041 A A"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -900,7 +900,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer51"
-       inkscape:label="U+00003F ?"
+       inkscape:label="U+00003F ? question"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -912,7 +912,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer50"
-       inkscape:label="U+00003E &gt;"
+       inkscape:label="U+00003E &gt; greater"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -924,7 +924,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer60"
-       inkscape:label="U+00003D ="
+       inkscape:label="U+00003D = equal"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -935,7 +935,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer56"
-       inkscape:label="U+00003C &lt;"
+       inkscape:label="U+00003C &lt; less"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -947,7 +947,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer12"
-       inkscape:label="U+000039 9"
+       inkscape:label="U+000039 9 nine"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -959,7 +959,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer3"
-       inkscape:label="U+000038 8"
+       inkscape:label="U+000038 8 eight"
        style="display:inline">
       <path
          id="path2"
@@ -970,7 +970,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="U+000037 7"
+       inkscape:label="U+000037 7 seven"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -982,7 +982,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer10"
-       inkscape:label="U+000036 6"
+       inkscape:label="U+000036 6 six"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -994,7 +994,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer9"
-       inkscape:label="U+000035 5"
+       inkscape:label="U+000035 5 five"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1006,7 +1006,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer8"
-       inkscape:label="U+000034 4"
+       inkscape:label="U+000034 4 four"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1018,7 +1018,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer7"
-       inkscape:label="U+000033 3"
+       inkscape:label="U+000033 3 three"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1030,7 +1030,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer6"
-       inkscape:label="U+000032 2"
+       inkscape:label="U+000032 2 two"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1042,7 +1042,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="U+000031 1"
+       inkscape:label="U+000031 1 one"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1064,7 +1064,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer4"
-       inkscape:label="U+000030 0"
+       inkscape:label="U+000030 0 zero"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1076,7 +1076,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer48"
-       inkscape:label="U+00002D -"
+       inkscape:label="U+00002D - hyphen"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1088,7 +1088,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer53"
-       inkscape:label="U+000027 '"
+       inkscape:label="U+000027 ' quotesingle"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1100,7 +1100,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer52"
-       inkscape:label="U+000022 &quot;"
+       inkscape:label="U+000022 &quot; quotedbl"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -1112,7 +1112,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer47"
-       inkscape:label="U+000020  "
+       inkscape:label="U+000020   space"
        style="display:none"
        sodipodi:insensitive="true">
       <path
